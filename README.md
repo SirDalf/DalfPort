@@ -15,15 +15,15 @@
 | :--- | :--- |
 | **Frontend** | ' ' |
 | **Backend** | `Python` |
-| **Tools** | `Git` `QGIS` 'AutoCad'  |
+| **Tools** | `Git` `QGIS` `AutoCAD`  |
 
 ## 💡 프로젝트
 
 ### [자기소개]
 
-* [cite_start]**목적:** [깃허브 포트폴리오 과목 과제 제출]를 달성하기 위해 제작했습니다[cite: 5].
+* **목적:** [깃허브 포트폴리오 과목 과제 제출]를 달성하기 위해 제작했습니다.
   
-* [**프로젝트 바로가기 (링크)**](https://github.com/SirDalf/DalfPort/edit/main/README.md)
+* [**프로젝트 바로가기 (링크)**](https://github.com/SirDalf/DalfPort/)
 
 ## ✉️ 연락처 및 링크
 
