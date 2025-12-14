@@ -1,5 +1,5 @@
 # 안녕하세요 드론로봇학과 김동빈입니다
-<img src="https://i.namu.wiki/i/4MVRHTrVEwKc10gYEM9pKiaeDdUQlLsVQQzXEK2wIIuOIpyuPxBH5WSE0MPQii_RrxbCj3t4wMiQLyurM29Qv5pXkrcKPQbHylcouDh74Veb-BI7uQOZXUTAcLp48pc0f9xpWakPBPexvofVmiV4Iw.webp" width="300" alt="SirDalf의 프로필 사진">
+<img src="https://i.namu.wiki/i/4MVRHTrVEwKc10gYEM9pKiaeDdUQlLsVQQzXEK2wIIuOIpyuPxBH5WSE0MPQii_RrxbCj3t4wMiQLyurM29Qv5pXkrcKPQbHylcouDh74Veb-BI7uQOZXUTAcLp48pc0f9xpWakPBPexvofVmiV4Iw.webp" width="600" alt="SirDalf의 프로필 사진">
 
 ## 
 
