@@ -1,5 +1,5 @@
 # 안녕하세요 드론로봇학과 김동빈입니다
-
+![눈물을 마시는 새의 하늘치. 고래와 판타지를 좋아합니다. 출처:크래프톤](https://i.namu.wiki/i/4MVRHTrVEwKc10gYEM9pKiaeDdUQlLsVQQzXEK2wIIuOIpyuPxBH5WSE0MPQii_RrxbCj3t4wMiQLyurM29Qv5pXkrcKPQbHylcouDh74Veb-BI7uQOZXUTAcLp48pc0f9xpWakPBPexvofVmiV4Iw.webp)
 
 ## 
 
