@@ -1,11 +1,7 @@
 # 안녕하세요 드론로봇학과 김동빈입니다
-<img width="1280" height="900" alt="image" src="https://github.com/user-attachments/assets/ca1008cf-05fb-405d-a58b-a5301de1cfcd" />
-<figure>
-    <img src="현재 이미지 URL ("https://github.com/user-attachments/assets/ca1008cf-05fb-405d-a58b-a5301de1cfcd" /)" width="1280" height="900" alt="Skyray">
-    <figcaption style="text-align: center; color: #555; font-size: 0.9em; margin-top: 10px;">
-        고래와 판타지를 좋아합니다. (출처: 크래프톤)
-    </figcaption>
-</figure>
+<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/ca1008cf-05fb-405d-a58b-a5301de1cfcd" />
+고래와 판타지를 좋아합니다. (출처: 크래프톤)
+   
 
 ## 
 
